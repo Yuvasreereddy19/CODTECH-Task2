@@ -19,3 +19,11 @@ Frontend frameworks: React.js
 Backend frameworks: Express.js,Node.js
 Database: MongoDB
 Code editors: VS code
+
+KEY ACTIVITIES:
+Frontend Development:
+1.Design Layout: To Plan the structure and layout of my website and to design a responsive layout that works well on different devices
+2.HTML/CSS: Writing HTML to structure my content and using CSS to style my website,ensuring it looks attractive and professional.
+3.JavaScript: Adding interactive elements like dropdown menus,sliders and modals.
+Backend Development:
+1.Backend Framework: Setting up a backend using a framework like Express.js and Creating routes and handlers for different parts of my website.
