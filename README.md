@@ -20,6 +20,11 @@ Backend frameworks: Express.js,Node.js
 Database: MongoDB
 Code editors: VS code
 
+
+![Screenshot (34)](https://github.com/user-attachments/assets/6b7f1e16-07e9-4e3b-8f2d-988b07d3b4e1)
+![Screenshot (35)](https://github.com/user-attachments/assets/c9c1a2fa-b4dd-4615-945a-71beec4f759e)
+
+
 KEY ACTIVITIES:
 Frontend Development:
 1.Design Layout: To Plan the structure and layout of my website and to design a responsive layout that works well on different devices
